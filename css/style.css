@@ -122,4 +122,8 @@ ul li span:hover {
     input {
         padding: 8px;
     }
+    .todo-app {
+        margin: 100px auto 20px;
+        padding: 30px 20px 30px;
+    }
 }
